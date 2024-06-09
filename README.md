@@ -39,7 +39,6 @@ This is a simple weather application built with React that displays the current 
 
 ## Known Issues or Limitations
 
-- The application currently only fetches weather data for a single hardcoded location. 
 - No unit tests are included.
 
 
